@@ -26,5 +26,4 @@
     2. MVC
 ## 9. ETC
 ## 10. Android
-## 11. Machine Learning
-## 12. Deep Learning
+## 11. Machine Learning(Deep Learning)
